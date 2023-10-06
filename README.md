@@ -7,7 +7,7 @@
 I'm Massi (<b>MAS</b>simiani<b>SI</b>lvia), a frontend developer from Italy!!! 💻 🚀</div>  
   
 
-- 🌐 I’m currently working on my personal website  
+- 🌐 I’m currently learning Typescript
   
 
 - 📚 I’m currently learning React Hooks and SASS  
