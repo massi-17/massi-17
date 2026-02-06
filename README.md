@@ -7,13 +7,13 @@
 I'm Massi (<b>MAS</b>simiani<b>SI</b>lvia), a frontend developer from Italy!!! 💻 🚀</div>  
   
 
-- 🌐 I’m currently learning Redux
+- 🌐 I’m currently learning React Native/Testing
     
 
 - ❓ Ask me whathever you like  
   
 
-- ⚡ Fun fact: I collect rubber-ducks, my favourite one is the Joker-duck! 🃏  
+- ⚡ Fun fact: I collect rubber-ducks, lego pro builder, board and video gamer! 🃏  
   
 
 <br/>  
